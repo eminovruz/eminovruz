@@ -1,9 +1,7 @@
-<h1 align="center">Privet duruzya Emin Novruz</h1>
-<h3 align="center">Software Programmer (Teriflemek kimi olmasin 5 barmagimda 5 bacariq)</h3>
-
+<h1 align="center">Privet duruzya \ Emin Novruz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminovruz&label=Profile%20views&color=0e75b6&style=flat" alt="eminovruz" /> </p>
 
-- 🔭 Heleki bekaram, gunumun cox hissesini divanda kecirirem ;) [40.40836998677764, 49.803290123613](40.40836998677764, 49.803290123613)
+- 🔭 gunumun cox hissesini divanda kecirirem ;) [40.40836998677764, 49.803290123613](40.40836998677764, 49.803290123613)
 
 - 👨‍💻 Proyektlerim : [https://github.com/eminovruz](https://github.com/eminovruz)
 
