@@ -1,9 +1,5 @@
-<h1 align="center">Privet duruzya \ Emin Novruz</h1>
+<h1 align="center">Emin Novruz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminovruz&label=Profile%20views&color=0e75b6&style=flat" alt="eminovruz" /> </p>
-
-- 🔭 gunumun cox hissesini divanda kecirirem ;) [40.40836998677764, 49.803290123613](40.40836998677764, 49.803290123613)
-
-- 👨‍💻 Proyektlerim : [https://github.com/eminovruz](https://github.com/eminovruz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
